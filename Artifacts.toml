@@ -1,0 +1,20 @@
+[[qwtw]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1eef9f1e70c8af6b9f4963d109c84866bed9a718"
+libc = "glibc"
+os = "linux"
+
+    [[qwtw.download]]
+    sha256 = "fdd9aac5f98716beb0e219f6c8f85153f15cf2f412e0587d1473b6f2e05d3db6"
+    url = "https://github.com/barche/qwtw_jll.jl/releases/download/qwtw-v2.0.0+0/qwtw.v2.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[qwtw]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5f2e5191a0857b076e90ff6bc545f4cbadd8c77e"
+libc = "glibc"
+os = "linux"
+
+    [[qwtw.download]]
+    sha256 = "b33c8a961e87cc6d902d6c0b319e9f629f189deff91053f131a44af3b17bc676"
+    url = "https://github.com/barche/qwtw_jll.jl/releases/download/qwtw-v2.0.0+0/qwtw.v2.0.0.x86_64-linux-gnu-cxx11.tar.gz"
